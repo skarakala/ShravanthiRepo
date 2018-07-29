@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="25070" started-at="2018-07-10T10:10:12Z" finished-at="2018-07-10T10:10:37Z">
+    <groups>
+      <group name="P0">
+        <method signature="BlackBuckTests.testOrderCreationAndModification()[pri:0, instance:com.blackbuck.pkp.tests.BlackBuckTests@7823a2f9]" name="testOrderCreationAndModification" class="com.blackbuck.pkp.tests.BlackBuckTests"/>
+      </group> <!-- P0 -->
+    </groups>
+    <test name="Default test" duration-ms="25070" started-at="2018-07-10T10:10:12Z" finished-at="2018-07-10T10:10:37Z">
+      <class name="com.blackbuck.pkp.tests.BlackBuckTests">
+        <test-method status="PASS" signature="setupBeforeSuite()[pri:0, instance:com.blackbuck.pkp.tests.BlackBuckTests@7823a2f9]" name="setupBeforeSuite" is-config="true" duration-ms="52" started-at="2018-07-10T15:40:12Z" finished-at="2018-07-10T15:40:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupBeforeSuite -->
+        <test-method status="PASS" signature="setupBeforeClass()[pri:0, instance:com.blackbuck.pkp.tests.BlackBuckTests@7823a2f9]" name="setupBeforeClass" is-config="true" duration-ms="1191" started-at="2018-07-10T15:40:12Z" finished-at="2018-07-10T15:40:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupBeforeClass -->
+        <test-method status="PASS" signature="setupBeforeClassClearTrip()[pri:0, instance:com.blackbuck.pkp.tests.BlackBuckTests@7823a2f9]" name="setupBeforeClassClearTrip" is-config="true" duration-ms="2" started-at="2018-07-10T15:40:13Z" finished-at="2018-07-10T15:40:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupBeforeClassClearTrip -->
+        <test-method status="PASS" signature="testOrderCreationAndModification()[pri:0, instance:com.blackbuck.pkp.tests.BlackBuckTests@7823a2f9]" name="testOrderCreationAndModification" duration-ms="23716" started-at="2018-07-10T15:40:13Z" description="Test order creation and modification" finished-at="2018-07-10T15:40:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOrderCreationAndModification -->
+        <test-method status="PASS" signature="setupAfterClass()[pri:0, instance:com.blackbuck.pkp.tests.BlackBuckTests@7823a2f9]" name="setupAfterClass" is-config="true" duration-ms="147" started-at="2018-07-10T15:40:37Z" finished-at="2018-07-10T15:40:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupAfterClass -->
+      </class> <!-- com.blackbuck.pkp.tests.BlackBuckTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
